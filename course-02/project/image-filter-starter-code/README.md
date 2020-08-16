@@ -1,3 +1,18 @@
+Submission notes for the project:
+
+    • Git repository (master): https://github.com/kartikeyashell/cloud-developer/tree/master
+      Image filter project: https://github.com/kartikeyashell/cloud-developer/tree/master/course-02/project/image-filter-starter-code
+
+    • Elastic beanstalk application
+
+
+    • Endpoint URL for running the above elastic beanstalk deployment: udagram-kartik-image-filter-dev.ap-south-1.elasticbeanstalk.com
+        ◦ Sample filtered images url:
+            ▪ http://udagram-kartik-image-filter-dev.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+            ▪ http://udagram-kartik-image-filter-dev.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://images.squarespace-cdn.com/content/v1/55a2bffae4b037baec79f96e/1522510854647-3748GK7RHYW9QFLM8TDZ/ke17ZwdGBToddI8pDm48kMh3mVmBaCAeGwqCLG3iONRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIarJWwnumkapRz_nmTYj1dpaH2rx--_BA62nv3IYPJxMKMshLAGzx4R3EDFOm1kBS/Norbert+%26+Mini+Plush.jpg
+            ▪ http://udagram-kartik-image-filter-dev.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://i1.wp.com/blog.fidoandco.com/wp-content/uploads/2013/08/puppy.jpg?fit=500%2C446&ssl=1
+
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.

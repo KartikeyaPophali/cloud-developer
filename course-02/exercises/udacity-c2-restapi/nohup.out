@@ -1,0 +1,27 @@
+(electron) 'getName function' is deprecated and will be removed. Please use 'name property' instead.
+Not disabling GPU
+Gtk-Message: Failed to load module "canberra-gtk-module"
+Gtk-Message: Failed to load module "canberra-gtk-module"
+ProtocolHandler~setDefaultProtocolClient: Command failed: xdg-mime default Postman.desktop x-scheme-handler/postman
+/bin/sh: 1: xdg-mime: not found
+
+Error org.freedesktop.DBus.Error.Failed: cannot use setting "default-url-scheme-handler": not allowed
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+1597331924806 main info "Booting Postman 7.30.1, linux-5.4.0-42-generic on x64"
+1597331924807 main info "EventBus~initialize - Success"
+1597331924811 main warn "CloudProxyManager~init: Error while reading proxy configuration from user data - ",{"errno":-2,"code":"ENOENT","syscall":"open","path":"/home/kartikeya/snap/postman/121/.config/Postman/Postman_Config/proxy","name":"Error","message":"ENOENT: no such file or directory, open '/home/kartikeya/snap/postman/121/.config/Postman/Postman_Config/proxy'","stack":"Error: ENOENT: no such file or directory, open '/home/kartikeya/snap/postman/121/.config/Postman/Postman_Config/proxy'"}
+1597331924811 main info "CloudProxyManager~init - Success"
+1597331924816 main info "UpdateHandler~init - Success"
+1597331924983 main info "RuntimeIPCAgent~started: Success"
+1597331925052 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+1597331925131 main info "Bootstrap-models~bootstrap - Success"
+1597331925445 main info "window-manager~newSharedWindow: Shell loaded"
+1597331927275 main info "Main~AppEvents - Received booted event for process shared"
+INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge
+InterceptorBridge: Trying to connect Native App IPC~Interceptor Bridge
+1597331929121 main info "Main~AppEvents - Received booted event for process requester"
+IPCClient ~ WindowHandler: New event is received { type: 'window-opened' }
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+1597403909861 main info "WindowManager~closeHandler - Closed Window (id: 3 )"
+IPCClient ~ WindowHandler: New event is received { type: 'window-closed', windowId: 3 }
+1597403909884 main info "Quitting app"
